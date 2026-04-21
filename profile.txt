@@ -1,3 +1,4 @@
 Name: Mohamad Alif Irfan Bin Jamil
 Matric Number: 251594145
 Course: Bachelor of Data Science (Artificial Intelligence)
+Hobbies: Reading, Coding, Gaming
