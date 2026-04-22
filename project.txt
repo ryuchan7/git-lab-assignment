@@ -1,2 +1,1 @@
 Project: Git Assignment
-Due Date: 2 weeks
